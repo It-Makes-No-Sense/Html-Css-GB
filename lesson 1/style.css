@@ -1,0 +1,16 @@
+a {
+      text-decoration: none;
+}
+
+.main-menu {
+      color: cornflowerblue;
+      font-size: 16px;
+      line-height: 20px;
+}
+
+.main-title {
+      color: #572727;
+      font-size: 44px;
+      line-height: 48px;
+      font-weight: lighter;
+}
